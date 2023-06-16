@@ -5,3 +5,4 @@ t, time period in years
 r, annual rate of interest
 Output
 simple interest =p*r*t
+@ 2021 XYZ, Inc.
